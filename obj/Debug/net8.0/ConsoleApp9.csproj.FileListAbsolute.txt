@@ -1,0 +1,15 @@
+C:\Users\santi\Source\Repos\Check-inner\bin\Debug\net8.0\ConsoleApp9.exe
+C:\Users\santi\Source\Repos\Check-inner\bin\Debug\net8.0\ConsoleApp9.deps.json
+C:\Users\santi\Source\Repos\Check-inner\bin\Debug\net8.0\ConsoleApp9.runtimeconfig.json
+C:\Users\santi\Source\Repos\Check-inner\bin\Debug\net8.0\ConsoleApp9.dll
+C:\Users\santi\Source\Repos\Check-inner\bin\Debug\net8.0\ConsoleApp9.pdb
+C:\Users\santi\Source\Repos\Check-inner\obj\Debug\net8.0\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Source\Repos\Check-inner\obj\Debug\net8.0\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\santi\Source\Repos\Check-inner\obj\Debug\net8.0\ConsoleApp9.AssemblyInfo.cs
+C:\Users\santi\Source\Repos\Check-inner\obj\Debug\net8.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\santi\Source\Repos\Check-inner\obj\Debug\net8.0\ConsoleApp9.sourcelink.json
+C:\Users\santi\Source\Repos\Check-inner\obj\Debug\net8.0\ConsoleApp9.dll
+C:\Users\santi\Source\Repos\Check-inner\obj\Debug\net8.0\refint\ConsoleApp9.dll
+C:\Users\santi\Source\Repos\Check-inner\obj\Debug\net8.0\ConsoleApp9.pdb
+C:\Users\santi\Source\Repos\Check-inner\obj\Debug\net8.0\ConsoleApp9.genruntimeconfig.cache
+C:\Users\santi\Source\Repos\Check-inner\obj\Debug\net8.0\ref\ConsoleApp9.dll
